@@ -1,0 +1,5 @@
+Enrollment data: https://gems.opi.mt.gov/school-district-data
+Districts:https://mslservices.mt.gov/geographic_information/data/datalist/datalist_Details.aspx?did=%7B7C0F0BF8-550B-406D-BD6C-7DA4E2FADD5C%7D
+Schools:https://mslservices.mt.gov/Geographic_Information/Data/DataList/datalist_Details.aspx?did={F7D51251-6A9C-49D4-900D-0E70D7125B0F}
+Demographics:https://data.census.gov/profile/Montana?g=040XX00US30
+OPI teacher compensation and year-to-year budget data: https://gems.opi.mt.gov/school-district-data
