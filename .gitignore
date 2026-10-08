@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kontur population data
+kontur_population_US_20231101.gpkg*
